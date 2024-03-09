@@ -15,7 +15,7 @@
         "src/aman_frontend/assets",
         "dist/aman_frontend/"
       ],
-      "type": "assels"
+      "type": "assets"
     }
   },
   "defaults": {
